@@ -4,7 +4,7 @@
 
 **Follow [@batsbatsbats@social.beeps.gay](https://social.beeps.gay/@batsbatsbats) on the Fediverse!**
 
-A simple bit o' code that uses GitHub Actions to post a random, freely distributable bat picture onto a Mastodon account once an hour.
+A simple bit o' code that posts a random, freely distributable bat picture onto a Mastodon account once an hour.
 
 Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed having accounts like [@batshourly](https://twitter.com/batshourly) to give me frequent infusions of them good, good animals right into my eyeballs... so I made a Mastodon equivalent.
 
@@ -18,7 +18,7 @@ Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed
 
 **Randomness:** Images are selected at random. This means some images may take a long time to be picked and there is a high likeliness of repeats. I couldn't be bothered adding a way of tracking which ones had already been used. Hopefully the size of the dataset makes any repetition not _too_ obvious.
 
-**Scheduling:** The bot uses GitHub Actions to schedule posts once an hour. Actions, however, is not particularly prompt. It's more like joining the back of a queue once an hour, and the length of that queue could be different on different days and at different times of day. Given this is just a silly bot and I don't want to run my own daemon just for it, the goal is to be roughly every hour, but it's never going to be exact.
+**Scheduling:** ~~The bot uses GitHub Actions to schedule posts once an hour. Actions, however, is not particularly prompt. It's more like joining the back of a queue once an hour, and the length of that queue could be different on different days and at different times of day. Given this is just a silly bot and I don't want to run my own daemon just for it, the goal is to be roughly every hour, but it's never going to be exact.~~ GitHub Actions is currently rate limited so the bot cannot run every hour. For the time being, the action has been disabled and the bot is running on a local server instead.
 
 **Alt text:** Manually collating hundreds of bat photographs, names, photographers and licensing information is already time consuming enough. Unfortunately, adding meaningful alt text for every single one of those photos is fairly low on the priority list. GitHub users can contribute alt text by [submitting an issue](https://github.com/querkmachine/bat-bot/issues/new/choose) or by clicking the link in the Mastodon post, but until then there's no alt text. It sucks, I know. I'm sorry.
 
