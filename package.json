@@ -14,7 +14,7 @@
   "author": "beeps <hi@berly.kim>",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^18.0.4",
+    "dotenv": "^18.0.6",
     "mastodon": "^1.2.2",
     "random": "^5.5.1"
   }
