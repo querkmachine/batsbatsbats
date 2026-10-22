@@ -26,21 +26,24 @@ Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed
 
 Thanks to the following people <small>(and me, I guess)</small> for submitting good quality alt text suggestions!
 
-|GitHub user|Merged|
-|:-|-:|
-|🥇 [@querkmachine](//github.com/querkmachine)|41|
-|🥈 [@aaronhowe78](//github.com/aaronhowe78)|40|
-|🥉 [@nevillepark](//github.com/nevillepark)|11|
-|[@brown-betty](//github.com/brown-betty)|9|
-|[@8ohm](//github.com/8ohm)|1|
-|[@dlbradford](//github.com/dlbradford)|1|
-|[@emsquarial](//github.com/emsquarial)|1|
-|[@lightspill](//github.com/lightspill)|1|
-|[@Monikae](//github.com/Monikae)|1|
-|[@sirlan-ff00ff](//github.com/sirlan-ff00ff)|1|
-|[@quicquid](//github.com/quicquid)|1|
+| GitHub user                                          | Merged |
+| :--------------------------------------------------- | -----: |
+| 🥇 [@aaronhowe78](//github.com/aaronhowe78)          |     45 |
+| 🥈 [@querkmachine](//github.com/querkmachine)        |     44 |
+| 🥉 [@nevillepark](//github.com/nevillepark)          |     13 |
+| [@brown-betty](//github.com/brown-betty)             |      9 |
+| [@8ohm](//github.com/8ohm)                           |      1 |
+| [@Bugsbane](//github.com/Bugsbane)                   |      1 |
+| [@Christopher-Hayes](//github.com/Christopher-Hayes) |      1 |
+| [@dlbradford](//github.com/dlbradford)               |      1 |
+| [@emsquarial](//github.com/emsquarial)               |      1 |
+| [@lightspill](//github.com/lightspill)               |      1 |
+| [@MmeZabet](//github.com/MmeZabet)                   |      1 |
+| [@Monikae](//github.com/Monikae)                     |      1 |
+| [@sirlan-ff00ff](//github.com/sirlan-ff00ff)         |      1 |
+| [@quicquid](//github.com/quicquid)                   |      1 |
 
-Accurate as of 27 January 2026.
+Accurate as of 22 October 2026.
 
 ## Questions, queries, issues, etc.
 
